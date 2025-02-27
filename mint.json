@@ -26,16 +26,10 @@
     "url": "https://exam-insights.com"
   },
   "tabs": [],
-  "anchors": [
-    {
-      "name": "Help Center",
-      "icon": "book-open-cover",
-      "url": "https://exam-insights.com/help-center/"
-    }
-  ],
+  "anchors": [],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": [
         "introduction",
         "quickstart",
@@ -53,20 +47,6 @@
         "essentials/reusable-snippets"
       ]
     },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
-    }
   ],
   "footerSocials": {}
 }
