@@ -5,6 +5,11 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
+  {
+  "codeBlock": {
+    "mode": "light"
+  }
+}
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0FA01B",
