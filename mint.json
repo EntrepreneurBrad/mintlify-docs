@@ -8,7 +8,7 @@
     "default": "light",
     "isHidden": true
   },
-  "favicon": "/logo/favicon.ico",
+  "favicon": "/logo/logo.png",
   "colors": {
     "primary": "#0FA01B",
     "light": "#0FA01B",
@@ -38,16 +38,16 @@
         "development",
         "navigation"
       ]
-    },
+    }
     {
       "anchor": "API References",
       "icon": "sqaure-terminal",
       "pages": [
-        "api-reference/ge",
+        "api-reference/get",
         "api-reference/post",
         "api-reference/delete"
       ]
-    },
+    }
     {
       "anchor": "Blog",
       "href": "https://external-link.com/blog"
