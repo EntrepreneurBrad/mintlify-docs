@@ -12,7 +12,7 @@
         "dropdowns": [
             {
                 "dropdown": "Home",
-                "icon": "home",
+                "icon": "house",
                 "pages": [
                     "home"
                 ]
@@ -26,27 +26,28 @@
             },
             {
                 "dropdown": "Pricing & Billing",
-                "icon": "square-terminal",
+                "icon": "credit-card",
                 "pages": [
                     "pricing"
                 ]
             },
             {
                 "dropdown": "Troubleshooting",
-                "icon": "square-terminal",
+                "icon": "screwdriver-wrench",
                 "pages": [
                     "troubleshooting"
                 ]
             },
             {
                 "dropdown": "Contact Us",
+                "icon": "envelope",
                 "href": "https://exam-insights.com/company/"
             }
         ]
     },
     "logo": {
-        "light": "logo/logo.svg",
-        "dark": "logo/logo.svg"
+        "light": "logo/logo.png",
+        "dark": "logo/logo.png"
     },
     "appearance": {
         "default": "light",
