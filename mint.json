@@ -2,14 +2,13 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Exam Insights",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/logo.png"
   },
   "modeToggle": {
     "default": "light",
-    "isHidden": false
+    "isHidden": true
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/favicon.svg",
   "colors": {
     "primary": "#0FA01B",
     "light": "#0FA01B",
@@ -22,7 +21,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@exam-insights.com"
+      "url": "https://exam-insights.com/company/#contact-us"
     }
   ],
   "topbarCtaButton": {
@@ -38,7 +37,7 @@
         "Getting Started",
         "Pricing",
         "Troubleshooting",
-          "Contact & Support"
+        "Contact Us"
       ]
     }
   ],
