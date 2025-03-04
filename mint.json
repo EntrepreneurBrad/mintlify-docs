@@ -8,7 +8,7 @@
     "default": "light",
     "isHidden": true
   },
-  "favicon": "/logo/favicon.svg",
+  "favicon": "/logo/favicon.ico",
   "colors": {
     "primary": "#0FA01B",
     "light": "#0FA01B",
@@ -29,7 +29,30 @@
     "url": "https://exam-insights.com"
   },
   "tabs": [],
-  "anchors": [],
+  "anchors": [
+    {
+      "anchor": "Documentation",
+      "icon": "book-open",
+      "pages": [
+        "quickstart",
+        "development",
+        "navigation"
+      ]
+    },
+    {
+      "anchor": "API References",
+      "icon": "sqaure-terminal",
+      "pages": [
+        "api-reference/get",
+        "api-reference/post",
+        "api-reference/delete"
+      ]
+    },
+    {
+      "anchor": "Blog",
+      "href": "https://external-link.com/blog"
+    }
+  ],
   "navigation": [
     {
       "group": "Help Centre",
