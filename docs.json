@@ -1,6 +1,6 @@
 {
     "$schema": "https://mintlify.com/docs.json",
-    "theme": "mint",
+    "theme": "maple",
     "name": "Exam Insights",
     "colors": {
         "primary": "#0FA01B",
@@ -40,7 +40,7 @@
             },
             {
                 "dropdown": "Contact",
-                "href": "https://exam-insights.com/company/#contact-us"
+                "href": "https://exam-insights.com/company/"
             }
         ]
     },
@@ -56,7 +56,7 @@
         "links": [
             {
                 "label": "Support",
-                "href": "https://exam-insights.com/company/#contact-us"
+                "href": "https://exam-insights.com/company/"
             }
         ],
         "primary": {
