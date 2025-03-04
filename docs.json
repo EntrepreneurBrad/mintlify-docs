@@ -11,7 +11,7 @@
     "navigation": {
         "dropdowns": [
             {
-                "dropdown": "Documentation",
+                "dropdown": "Getting Started",
                 "icon": "book-open",
                 "pages": [
                     "getting_started",
@@ -20,8 +20,8 @@
                 ]
             },
             {
-                "dropdown": "API References",
-                "icon": "sqaure-terminal",
+                "dropdown": "Pricing & Billing",
+                "icon": "square-terminal",
                 "pages": [
                     "getting_started",
                     "pricing",
@@ -29,44 +29,19 @@
                 ]
             },
             {
-                "dropdown": "Blog",
-                "href": "https://external-link.com/blog"
-            }
-        ],
-        "groups": [
-            {
-                "group": "Help Centre",
+                "dropdown": "Troubleshooting",
+                "icon": "square-terminal",
                 "pages": [
                     "getting_started",
                     "pricing",
                     "troubleshooting"
                 ]
+            },
+            {
+                  "dropdown": "Contact",
+                  "href": "https://exam-insights.com/company/#contact-us"
             }
         ],
-      "anchors": [
-          {
-            "anchor": "Documentation",
-            "icon": "book-open",
-            "pages": [
-              "getting_started",
-              "pricing",
-              "troubleshooting"
-            ]
-          },
-          {
-            "anchor": "API References",
-            "icon": "sqaure-terminal",
-            "pages": [
-              "getting_started",
-              "pricing",
-              "troubleshooting"
-            ]
-          },
-          {
-            "anchor": "Blog",
-            "href": "https://external-link.com/blog"
-          }
-        ]
     },
     "logo": {
         "light": "logo/logo.png",
