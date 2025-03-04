@@ -38,7 +38,7 @@
         "development",
         "navigation"
       ]
-    }
+    },
     {
       "anchor": "API References",
       "icon": "sqaure-terminal",
@@ -47,7 +47,7 @@
         "api-reference/post",
         "api-reference/delete"
       ]
-    }
+    },
     {
       "anchor": "Blog",
       "href": "https://external-link.com/blog"
