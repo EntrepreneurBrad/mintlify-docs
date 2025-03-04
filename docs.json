@@ -43,6 +43,30 @@
                     "Contact Us"
                 ]
             }
+        ],
+      "anchors": [
+          {
+            "anchor": "Documentation",
+            "icon": "book-open",
+            "pages": [
+              "quickstart",
+              "development",
+              "navigation"
+            ]
+          },
+          {
+            "anchor": "API References",
+            "icon": "sqaure-terminal",
+            "pages": [
+              "api-reference/get",
+              "api-reference/post",
+              "api-reference/delete"
+            ]
+          },
+          {
+            "anchor": "Blog",
+            "href": "https://external-link.com/blog"
+          }
         ]
     },
     "logo": {
