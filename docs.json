@@ -38,10 +38,10 @@
                 ]
             },
             {
-                  "dropdown": "Contact",
-                  "href": "https://exam-insights.com/company/#contact-us"
+                "dropdown": "Contact",
+                "href": "https://exam-insights.com/company/#contact-us"
             }
-        ],
+        ]
     },
     "logo": {
         "light": "logo/logo.png",
