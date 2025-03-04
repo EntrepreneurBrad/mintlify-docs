@@ -13,6 +13,7 @@
             {
                 "dropdown": "Home",
                 "icon": "house",
+                "description": "Welcome to Exam Insights Help Centre",
                 "pages": [
                     "home"
                 ]
@@ -44,6 +45,7 @@
             {
                 "dropdown": "Contact Us",
                 "icon": "envelope",
+                "description": "Get in touch with us",
                 "href": "https://exam-insights.com/company/"
             }
         ]
