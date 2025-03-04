@@ -29,30 +29,31 @@
     "url": "https://exam-insights.com"
   },
   "tabs": [],
-  "anchors": [
+  "anchors": [],
+  "dropdowns": [
     {
-      "anchor": "Documentation",
+      "dropdown": "Documentation",
       "icon": "book-open",
       "pages": [
         "quickstart",
         "development",
         "navigation"
       ]
-    },
+    }
     {
-      "anchor": "API References",
+      "dropdown": "API References",
       "icon": "sqaure-terminal",
       "pages": [
         "api-reference/get",
         "api-reference/post",
         "api-reference/delete"
       ]
-    },
+    }
     {
-      "anchor": "Blog",
+      "dropdown": "Blog",
       "href": "https://external-link.com/blog"
     }
-  ],
+  ]
   "navigation": [
     {
       "group": "Help Centre",
