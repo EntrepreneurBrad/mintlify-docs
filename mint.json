@@ -30,30 +30,6 @@
   },
   "tabs": [],
   "anchors": [],
-  "dropdowns": [
-    {
-      "dropdown": "Documentation",
-      "icon": "book-open",
-      "pages": [
-        "quickstart",
-        "development",
-        "navigation"
-      ]
-    },
-    {
-      "dropdown": "API References",
-      "icon": "sqaure-terminal",
-      "pages": [
-        "api-reference/get",
-        "api-reference/post",
-        "api-reference/delete"
-      ]
-    },
-    {
-      "dropdown": "Blog",
-      "href": "https://external-link.com/blog"
-    }
-  ]
   "navigation": [
     {
       "group": "Help Centre",
