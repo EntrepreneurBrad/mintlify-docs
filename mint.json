@@ -33,22 +33,15 @@
   "anchors": [],
   "navigation": [
     {
-      "group": "Getting Started",
+      "group": "Help Centre",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "Getting Started",
+        "For Students",
+        "For Educators"
+        "For Schools"
+        "Pricing & Usage"
+        "Troubleshooting"
+          "Contact & Support"
       ]
     }
   ],
