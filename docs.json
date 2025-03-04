@@ -11,6 +11,13 @@
     "navigation": {
         "dropdowns": [
             {
+                "dropdown": "Home",
+                "icon": "home",
+                "pages": [
+                    "home"
+                ]
+            },
+            {
                 "dropdown": "Getting Started",
                 "icon": "book-open",
                 "pages": [
