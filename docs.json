@@ -14,26 +14,20 @@
                 "dropdown": "Getting Started",
                 "icon": "book-open",
                 "pages": [
-                    "getting_started",
-                    "pricing",
-                    "troubleshooting"
+                    "getting_started"
                 ]
             },
             {
                 "dropdown": "Pricing & Billing",
                 "icon": "square-terminal",
                 "pages": [
-                    "getting_started",
-                    "pricing",
-                    "troubleshooting"
+                    "pricing"
                 ]
             },
             {
                 "dropdown": "Troubleshooting",
                 "icon": "square-terminal",
                 "pages": [
-                    "getting_started",
-                    "pricing",
                     "troubleshooting"
                 ]
             },
