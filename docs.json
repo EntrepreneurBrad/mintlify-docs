@@ -14,18 +14,18 @@
                 "dropdown": "Documentation",
                 "icon": "book-open",
                 "pages": [
-                    "quickstart",
-                    "development",
-                    "navigation"
+                    "getting_started",
+                    "pricing",
+                    "troubleshooting"
                 ]
             },
             {
                 "dropdown": "API References",
                 "icon": "sqaure-terminal",
                 "pages": [
-                    "api-reference/get",
-                    "api-reference/post",
-                    "api-reference/delete"
+                    "getting_started",
+                    "pricing",
+                    "troubleshooting"
                 ]
             },
             {
@@ -37,10 +37,9 @@
             {
                 "group": "Help Centre",
                 "pages": [
-                    "Getting Started",
-                    "Pricing",
-                    "Troubleshooting",
-                    "Contact Us"
+                    "getting_started",
+                    "pricing",
+                    "troubleshooting"
                 ]
             }
         ],
@@ -49,18 +48,18 @@
             "anchor": "Documentation",
             "icon": "book-open",
             "pages": [
-              "quickstart",
-              "development",
-              "navigation"
+              "getting_started",
+              "pricing",
+              "troubleshooting"
             ]
           },
           {
             "anchor": "API References",
             "icon": "sqaure-terminal",
             "pages": [
-              "api-reference/get",
-              "api-reference/post",
-              "api-reference/delete"
+              "getting_started",
+              "pricing",
+              "troubleshooting"
             ]
           },
           {
