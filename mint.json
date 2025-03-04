@@ -39,7 +39,7 @@
         "development",
         "navigation"
       ]
-    }
+    },
     {
       "dropdown": "API References",
       "icon": "sqaure-terminal",
@@ -48,7 +48,7 @@
         "api-reference/post",
         "api-reference/delete"
       ]
-    }
+    },
     {
       "dropdown": "Blog",
       "href": "https://external-link.com/blog"
