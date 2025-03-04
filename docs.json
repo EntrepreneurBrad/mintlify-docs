@@ -1,13 +1,13 @@
 {
     "$schema": "https://mintlify.com/docs.json",
     "theme": "maple",
-    "name": "Exam Insights",
+    "name": "Exam Insights Help Centre",
     "colors": {
         "primary": "#0FA01B",
         "light": "#0FA01B",
         "dark": "#0FA01B"
     },
-    "favicon": "logo/logo.png",
+    "favicon": "/favicon.png",
     "navigation": {
         "dropdowns": [
             {
@@ -39,7 +39,7 @@
                 ]
             },
             {
-                "dropdown": "Contact",
+                "dropdown": "Contact Us",
                 "href": "https://exam-insights.com/company/"
             }
         ]
@@ -55,7 +55,7 @@
     "navbar": {
         "links": [
             {
-                "label": "Support",
+                "label": "Contact Us",
                 "href": "https://exam-insights.com/company/"
             }
         ],
