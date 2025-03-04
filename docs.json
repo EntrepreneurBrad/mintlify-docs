@@ -1,0 +1,48 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Exam Insights",
+  "colors": {
+    "primary": "#0FA01B",
+    "light": "#0FA01B",
+    "dark": "#0FA01B"
+  },
+  "favicon": "",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Help Centre",
+        "pages": [
+          "Getting Started",
+          "Pricing",
+          "Troubleshooting",
+          "Contact Us"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "logo/logo.png",
+    "dark": "logo/logo.png"
+  },
+  "appearance": {
+    "default": "light",
+    "strict": true
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "https://exam-insights.com/company/#contact-us"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Open app",
+      "href": "https://exam-insights.com"
+    }
+  },
+  "footer": {
+    "socials": {}
+  }
+}
