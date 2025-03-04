@@ -19,7 +19,8 @@
             },
             {
                 "dropdown": "Getting Started",
-                "icon": "book-open",
+                "icon": "book",
+                "description": "Learn how to get started",
                 "pages": [
                     "getting_started"
                 ]
@@ -27,6 +28,7 @@
             {
                 "dropdown": "Pricing & Billing",
                 "icon": "credit-card",
+                "description": "Learn about pricing and billing",
                 "pages": [
                     "pricing"
                 ]
@@ -34,6 +36,7 @@
             {
                 "dropdown": "Troubleshooting",
                 "icon": "screwdriver-wrench",
+                "description": "Troubleshoot common issues",
                 "pages": [
                     "troubleshooting"
                 ]
@@ -55,16 +58,15 @@
     },
     "navbar": {
         "links": [
+            { 
+                "label": "Open app",
+                "href": "https://exam-insights.com"
+            },
             {
                 "label": "Contact Us",
                 "href": "https://exam-insights.com/company/"
             }
-        ],
-        "primary": {
-            "type": "button",
-            "label": "Open app",
-            "href": "https://exam-insights.com"
-        }
+        ]
     },
     "footer": {
         "socials": {}
