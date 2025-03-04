@@ -2,13 +2,13 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Exam Insights",
   "logo": {
-    "light": "/logo/logo.png"
+    "light": ""
   },
   "modeToggle": {
     "default": "light",
     "isHidden": true
   },
-  "favicon": "/logo/logo.png",
+  "favicon": "",
   "colors": {
     "primary": "#0FA01B",
     "light": "#0FA01B",
