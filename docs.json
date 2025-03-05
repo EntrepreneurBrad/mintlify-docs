@@ -102,7 +102,7 @@
             },
             {
                 "dropdown": "Security & Privacy",
-                "icon": "lock",
+                "icon": "shield",
                 "description": "Learn how we protect your data",
                 "groups": [
                     {
