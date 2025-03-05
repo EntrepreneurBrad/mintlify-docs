@@ -120,7 +120,7 @@
                         "pages": [
                             "policies/terms_of_use",
                             "policies/privacy_policy",
-                            "policies/cookie_policy"
+                            "policies/cookie_policy",
                             "policies/refund_policy"
                         ]
                     }
