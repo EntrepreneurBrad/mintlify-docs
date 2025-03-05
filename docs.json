@@ -19,9 +19,14 @@
                         "group": "Group 1",
                         "pages": [
                             "about",
-                            "getting_started"
                         ]
-                    }
+                    },
+                    {
+                          "group": "Group 1",
+                          "pages": [
+                              "getting_started"
+                          ]
+                      }
                 ]
             },
             {
