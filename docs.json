@@ -55,15 +55,15 @@
                     {
                         "group": "For Students & Educators",
                         "pages": [
-                            "pricing/purchase_plan_guide",
-                            "pricing/individual_pricing_faqs"
+                            "pricing/purchasing_a_plan",
+                            "pricing/individual_faqs"
                         ]
                     },
                     {
                         "group": "For Schools",
                         "pages": [
                             "pricing/school_pricing_guide",
-                            "pricing/school_pricing_faqs"
+                            "pricing/school_faqs"
                         ]
                     }
                 ]
