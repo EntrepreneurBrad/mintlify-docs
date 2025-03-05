@@ -15,13 +15,14 @@
                 "icon": "book",
                 "description": "Learn the basics quickly",
                 "groups": [
-                {
-                  "group": "Group 1",
-                  "pages": [
-                    "about",
-                    "getting_started"
-                  ]
-                }
+                    {
+                        "group": "Group 1",
+                        "pages": [
+                            "about",
+                            "getting_started"
+                        ]
+                    }
+                ]
             },
             {
                 "dropdown": "Pricing & Licensing",
