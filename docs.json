@@ -14,10 +14,14 @@
                 "dropdown": "Getting Started",
                 "icon": "book",
                 "description": "Learn the basics quickly",
-                "pages": [
+                "groups": [
+                {
+                  "group": "Group 1",
+                  "pages": [
                     "about",
                     "getting_started"
-                ]
+                  ]
+                }
             },
             {
                 "dropdown": "Pricing & Licensing",
