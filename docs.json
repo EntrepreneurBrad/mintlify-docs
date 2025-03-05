@@ -57,7 +57,7 @@
     },
     "navbar": {
         "links": [
-            { 
+            {
                 "label": "Open app",
                 "href": "https://exam-insights.com"
             },
