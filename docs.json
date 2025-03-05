@@ -77,21 +77,23 @@
                         "group": "Account & Access",
                         "pages": [
                             "troubleshooting/accessing_accounts",
-                            "troubleshooting/changing_account_details"
+                            "troubleshooting/changing_account_details",
+                            "troubleshooting/account_deletion"
                         ]
                     },
                     {
                         "group": "Plans & Billing",
                         "pages": [
                             "troubleshooting/payment_issues",
-                            "troubleshooting/cancel_plan",
-                            "troubleshooting/refund_policy"
+                            "troubleshooting/plan_change",
+                            "troubleshooting/plan_cancelation",
+                            "troubleshooting/refunds"
                         ]
                     },
                     {
                         "group": "Technical Issues",
                         "pages": [
-                            "troubleshooting/browser_support",
+                            "troubleshooting/bugs_issues",
                             "troubleshooting/site_performance",
                             "troubleshooting/error_messages"
                         ]
