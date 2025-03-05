@@ -106,14 +106,9 @@
                 "description": "Learn how we protect your data",
                 "groups": [
                     {
-                        "group": "Security",
+                        "group": "Security & Privacy",
                         "pages": [
-                            "security/overview"
-                        ]
-                    },
-                    {
-                        "group": "Privacy",
-                        "pages": [
+                            "security/overview",
                             "security/data_collection",
                             "security/data_usage",
                             "security/data_storage",
