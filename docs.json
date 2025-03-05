@@ -16,28 +16,22 @@
                 "description": "Learn the basics quickly",
                 "groups": [
                     {
-                        "group": "About",
+                        "group": "An Overview",
                         "pages": [
-                            "about"
+                            "about",
+                            "navigating_exam_insights"
                         ]
                     },
                     {
-                        "group": "For Students & Educators",
+                        "group": "Account Creation",
                         "pages": [
-                            "setup_for_individuals"
-                        ]
-                    },
-                    {
-                        "group": "For Schools",
-                        "pages": [
-                            "setup_for_schools",
+                            "create_account",
                             "access_codes"
                         ]
                     },
                     {
-                        "group": "Feature Walkthroughs",
+                        "group": "Our Features",
                         "pages": [
-                            "overview_walkthrough",
                             "explore_walkthrough",
                             "questions_walkthrough",
                             "insights_walkthrough",
