@@ -11,25 +11,18 @@
     "navigation": {
         "dropdowns": [
             {
-                "dropdown": "Home",
-                "icon": "house",
-                "description": "Welcome to Exam Insights Help Centre",
-                "pages": [
-                    "home"
-                ]
-            },
-            {
                 "dropdown": "Getting Started",
                 "icon": "book",
-                "description": "Learn how to get started",
+                "description": "Learn the basics quickly",
                 "pages": [
+                    "about",
                     "getting_started"
                 ]
             },
             {
-                "dropdown": "Pricing & Billing",
+                "dropdown": "Pricing & Licensing",
                 "icon": "credit-card",
-                "description": "Learn about pricing and billing",
+                "description": "Find answers about plans and billing",
                 "pages": [
                     "pricing"
                 ]
@@ -37,7 +30,7 @@
             {
                 "dropdown": "Troubleshooting",
                 "icon": "screwdriver-wrench",
-                "description": "Troubleshoot common issues",
+                "description": "Get help with common issues",
                 "pages": [
                     "troubleshooting"
                 ]
@@ -45,7 +38,7 @@
             {
                 "dropdown": "Contact Us",
                 "icon": "envelope",
-                "description": "Get in touch with us",
+                "description": "Reach out to our team",
                 "href": "https://exam-insights.com/company/"
             }
         ]
