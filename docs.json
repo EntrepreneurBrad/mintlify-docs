@@ -61,11 +61,11 @@
     "navbar": {
         "links": [
             { 
-                "label": "Open App",
+                "label": "Open app",
                 "href": "https://exam-insights.com"
             },
             {
-                "label": "Contact Us",
+                "label": "Contact us",
                 "href": "https://exam-insights.com/company/"
             }
         ]
