@@ -16,27 +16,27 @@
                 "description": "Learn the basics quickly",
                 "groups": [
                     {
-                        "group": "An Overview",
+                        "group": "Overview",
                         "pages": [
-                            "about",
-                            "navigating_exam_insights"
+                            "getting_started/about",
+                            "getting_started/navigating_exam_insights"
                         ]
                     },
                     {
                         "group": "Account Creation",
                         "pages": [
-                            "create_account",
-                            "access_codes"
+                            "getting_started/create_account",
+                            "getting_started/access_codes"
                         ]
                     },
                     {
                         "group": "Our Features",
                         "pages": [
-                            "explore_walkthrough",
-                            "questions_walkthrough",
-                            "insights_walkthrough",
-                            "performance_walkthrough",
-                            "ai_tutor_walkthrough"
+                            "getting_started/explore_walkthrough",
+                            "getting_started/questions_walkthrough",
+                            "getting_started/insights_walkthrough",
+                            "getting_started/performance_walkthrough",
+                            "getting_started/ai_tutor_walkthrough"
                         ]
                     }
                 ]
@@ -45,8 +45,27 @@
                 "dropdown": "Pricing & Licensing",
                 "icon": "credit-card",
                 "description": "For individuals & schools",
-                "pages": [
-                    "pricing"
+                "groups": [
+                    {
+                        "group": "Overview",
+                        "pages": [
+                            "pricing/understanding_pricing"
+                        ]
+                    },
+                    {
+                        "group": "For Students & Educators",
+                        "pages": [
+                            "pricing/purchase_plan_guide",
+                            "pricing/individual_pricing_faqs"
+                        ]
+                    },
+                    {
+                        "group": "For Schools",
+                        "pages": [
+                            "pricing/school_pricing_guide",
+                            "pricing/school_pricing_faqs"
+                        ]
+                    }
                 ]
             },
             {
