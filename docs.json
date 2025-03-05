@@ -18,33 +18,33 @@
                     {
                         "group": "About",
                         "pages": [
-                            "about",
+                            "about"
                         ]
                     },
                     {
-                          "group": "For Students & Educators",
-                          "pages": [
-                              "setup_for_individuals",
-                          ]
+                        "group": "For Students & Educators",
+                        "pages": [
+                            "setup_for_individuals"
+                        ]
                     },
                     {
-                          "group": "For Schools",
-                          "pages": [
-                              "setup_for_schools",
-                              "access_codes"
-                          ]
+                        "group": "For Schools",
+                        "pages": [
+                            "setup_for_schools",
+                            "access_codes"
+                        ]
                     },
                     {
-                          "group": "Feature Walkthroughs",
-                          "pages": [
-                              "overview_walkthrough"
-                              "explore_walkthrough",
-                              "questions_walkthrough",
-                              "insights_walkthrough",
-                              "performance_walkthrough",
-                              "ai_tutor_walkthrough"
-                          ]
-                    },
+                        "group": "Feature Walkthroughs",
+                        "pages": [
+                            "overview_walkthrough",
+                            "explore_walkthrough",
+                            "questions_walkthrough",
+                            "insights_walkthrough",
+                            "performance_walkthrough",
+                            "ai_tutor_walkthrough"
+                        ]
+                    }
                 ]
             },
             {
