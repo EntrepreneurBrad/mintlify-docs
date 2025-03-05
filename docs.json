@@ -72,8 +72,52 @@
                 "dropdown": "Troubleshooting",
                 "icon": "screwdriver-wrench",
                 "description": "Get help with common issues",
-                "pages": [
-                    "troubleshooting"
+                "groups": [
+                    {
+                        "group": "Account & Access",
+                        "pages": [
+                            "troubleshooting/accessing_accounts",
+                            "troubleshooting/changing_account_details"
+                        ]
+                    },
+                    {
+                        "group": "Plans & Billing",
+                        "pages": [
+                            "troubleshooting/payment_issues",
+                            "troubleshooting/cancel_plan",
+                            "troubleshooting/refund_policy"
+                        ]
+                    },
+                    {
+                        "group": "Technical Issues",
+                        "pages": [
+                            "troubleshooting/browser_support",
+                            "troubleshooting/site_performance",
+                            "troubleshooting/error_messages"
+                        ]
+                    }
+                ]
+            },
+            {
+                "dropdown": "Security & Privacy",
+                "icon": "lock",
+                "description": "Learn how we protect your data",
+                "groups": [
+                    {
+                        "group": "Security",
+                        "pages": [
+                            "security/overview"
+                        ]
+                    },
+                    {
+                        "group": "Privacy",
+                        "pages": [
+                            "security/data_collection",
+                            "security/data_usage",
+                            "security/data_storage",
+                            "security/data_sharing"
+                        ]
+                    }
                 ]
             },
             {
