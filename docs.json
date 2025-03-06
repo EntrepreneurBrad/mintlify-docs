@@ -101,9 +101,9 @@
                 ]
             },
             {
-                "dropdown": "Security & Privacy",
+                "dropdown": "Policies & Data Protection",
                 "icon": "shield",
-                "description": "Learn how we protect your data",
+                "description": "Explore our policies and data protection practices",
                 "groups": [
                     {
                         "group": "Security & Privacy",
