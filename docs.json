@@ -140,8 +140,7 @@
     },
     "appearance": {
         "default": "light",
-        "strict": false,
-        ""
+        "strict": false
     },
     "navbar": {
         "links": [
