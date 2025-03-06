@@ -130,7 +130,7 @@
                 "dropdown": "Contact Us",
                 "icon": "envelope",
                 "description": "Reach out to our team",
-                "href": "https://exam-insights.com/company/"
+                "href": "https://exam-insights.com/help-and-resources/"
             }
         ]
     },
@@ -150,7 +150,7 @@
             },
             {
                 "label": "Contact us",
-                "href": "https://exam-insights.com/company/"
+                "href": "https://exam-insights.com/help-and-resources/"
             }
         ]
     },
