@@ -118,10 +118,10 @@
                     {
                         "group": "Policies",
                         "pages": [
-                            "a/terms_of_use",
-                            "a/privacy_policy",
-                            "a/cookie_policy",
-                            "a/refund_policy"
+                            "policies/terms_of_use",
+                            "policies/privacy_policy",
+                            "policies/cookie_policy",
+                            "policies/refund_policy"
                         ]
                     }
                 ]
