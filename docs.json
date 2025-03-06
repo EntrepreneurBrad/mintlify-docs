@@ -112,13 +112,14 @@
                             "security/data_collection",
                             "security/data_usage",
                             "security/data_storage",
-                            "security/data_sharing"
+                            "security/data_sharing",
+                            "policies/terms_of_use"
+
                         ]
                     },
                     {
                         "group": "Policies",
                         "pages": [
-                            "policies/terms_of_use",
                             "policies/privacy_policy",
                             "policies/cookie_policy",
                             "policies/refund_policy"
