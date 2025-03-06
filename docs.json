@@ -149,6 +149,10 @@
                 "href": "https://exam-insights.com"
             },
             {
+                "label": "Status page",
+                "href": "https://exam-insights.instatus.com/"
+            },
+            {
                 "label": "Contact us",
                 "href": "https://exam-insights.com/help-and-resources/"
             }
