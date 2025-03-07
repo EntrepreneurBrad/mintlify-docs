@@ -32,11 +32,11 @@
                     {
                         "group": "Our Core Features",
                         "pages": [
-                            "getting_started/explore_walkthrough",
-                            "getting_started/questions_walkthrough",
-                            "getting_started/insights_walkthrough",
-                            "getting_started/performance_walkthrough",
-                            "getting_started/ai_tutor_walkthrough"
+                            "getting_started/explore",
+                            "getting_started/questions",
+                            "getting_started/insights",
+                            "getting_started/performance",
+                            "getting_started/ai_assistants"
                         ]
                     }
                 ]
