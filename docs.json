@@ -1,6 +1,6 @@
 {
     "$schema": "https://mintlify.com/docs.json",
-    "Theme": "maple",
+    "theme": "maple",
     "name": "Help Centre | Exam Insights",
     "colors": {
         "primary": "#0FA01B",
