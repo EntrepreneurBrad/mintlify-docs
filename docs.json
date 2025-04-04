@@ -106,11 +106,11 @@
                 "description": "Explore Policies & Security",
                 "groups": [
                     {
-                        "group": "Security & Privacy",
+                        "group": "Governance & Compliance",
                         "pages": [
                             "security/overview",
                             "security/data_collection",
-                            "security/data_usage",
+                            "security/breach_management",
                             "security/data_storage",
                             "security/data_sharing"
                         ]
